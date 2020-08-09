@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PensionDisbursement", "PensionDisbursement.csproj", "{2322EB4F-7D58-4893-89DD-65C4E54E0D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PensionDisbursementTesting", "..\PensionDisbursementTesting\PensionDisbursementTesting.csproj", "{19AB864D-F484-489D-BE13-617557DEDA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2322EB4F-7D58-4893-89DD-65C4E54E0D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2322EB4F-7D58-4893-89DD-65C4E54E0D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2322EB4F-7D58-4893-89DD-65C4E54E0D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2322EB4F-7D58-4893-89DD-65C4E54E0D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AB864D-F484-489D-BE13-617557DEDA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AB864D-F484-489D-BE13-617557DEDA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AB864D-F484-489D-BE13-617557DEDA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AB864D-F484-489D-BE13-617557DEDA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A674D851-095C-4C93-A7A7-F8408C40BC3B}
+	EndGlobalSection
+EndGlobal
